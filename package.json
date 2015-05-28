@@ -1,0 +1,13 @@
+{
+  "name": "eyeglass-normalize",
+  "version": "1.0.0",
+  "description": "normalize.css eyeglass module",
+  "main": "eyeglass-exports.js",
+  "keywords": [
+    "eyeglass-module",
+    "sass",
+    "normalize"
+  ],
+  "author": "Dido Arellano <dido@semicolonstudios.com>",
+  "license": "MIT"
+}
